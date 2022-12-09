@@ -1,0 +1,28 @@
+{
+  "Category": [
+    {
+      "name": "car",
+      "id": 1
+    }
+  ],
+  "SubCategory": [
+    {
+      "Name": "mustang",
+      "Parentid": "1",
+      "id": 1
+    }
+  ],
+  "Variant": [
+    {
+      "Variant": "color",
+      "id": 1
+    }
+  ],
+  "SubVariant": [
+    {
+      "Name": "black",
+      "Parentid": "1",
+      "id": 1
+    }
+  ]
+}
