@@ -3,6 +3,10 @@
     {
       "name": "car",
       "id": 1
+    },
+    {
+      "name": "bike",
+      "id": 2
     }
   ],
   "SubCategory": [
@@ -16,6 +20,10 @@
     {
       "Variant": "color",
       "id": 1
+    },
+    {
+      "Variant": "model",
+      "id": 2
     }
   ],
   "SubVariant": [
@@ -23,6 +31,22 @@
       "Name": "black",
       "Parentid": "1",
       "id": 1
+    }
+  ],
+  "product": [
+    {
+      "name": "fgb",
+      "price": "db",
+      "URl": "dafba",
+      "Description": "dfab",
+      "id": 1
+    },
+    {
+      "name": "fgb",
+      "price": "db",
+      "URl": "dafba",
+      "Description": "dfab",
+      "id": 2
     }
   ]
 }
